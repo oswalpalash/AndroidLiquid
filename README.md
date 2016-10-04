@@ -4,19 +4,14 @@ AndroidLiquid
 AndroidLiquid images and names. See the LICENSE for copyright information.
 
 
-Installation
-------------
+AndroidLiquid Built
+------------------
 
-Add `AndroidLiquid` to your Gemfile.
+Liquid Simulation in Java using physics engine (box2d) and designing a portable API for easier usage.
 
-``` ruby
-gem 'AndroidLiquid'
-```
-Project Built
--------------
+About AndroidLiquid
+-------------------
 
-Project built on jBox2D
-
-About 
------
-It is an alternative to Liquidfun built by google.
+An alternative to The  Liquidfun built by google.
+It is a Android  based Project for helping designing.
+The project is open sourced and built from scratch on Java platform using Android Studio and gradle.
