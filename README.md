@@ -9,6 +9,11 @@ AndroidLiquid Built
 
 Liquid Simulation in Java using physics engine (box2d) and designing a portable API for easier usage.
 
+Screenshots
+------------------
+
+![](./screenshots/1.png)
+
 About AndroidLiquid
 -------------------
 
