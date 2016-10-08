@@ -4,6 +4,13 @@ AndroidLiquid
 AndroidLiquid images and names. See the LICENSE for copyright information.
 
 
+Screenshots
+-----------
+
+![](./screenshots/1.png)
+
+![](./screenshots/2.png)
+
 AndroidLiquid Built
 ------------------
 
