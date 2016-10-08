@@ -6,6 +6,7 @@ AndroidLiquid images and names. See the LICENSE for copyright information.
 
 Screenshots
 -----------
+![](./AndroidLiquidDemo.gif)
 
 ![](./screenshots/1.png)
 
